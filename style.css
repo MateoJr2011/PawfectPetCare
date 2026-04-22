@@ -7,3 +7,61 @@ position: sticky;
 top: 0;
 z-index: 1000;
 }
+.accordion {
+    font-size: xx-large;
+    margin: 100px;
+
+
+
+
+
+
+}
+.card {
+
+
+    margin: 100px;
+    font-size: x-large;
+}
+h2 {
+
+
+    text-align: center;
+    -webkit-text-stroke: rgb(0, 67, 250) .5px;
+    font-size: xxx-large;
+    margin: 50px;
+}
+
+
+body {
+    background-color: rgb(84, 192, 255);
+}
+
+
+
+
+
+
+.nav-link:hover {
+
+
+    background-color: rgb(126, 203, 223);
+
+
+    opacity: 70%;
+}
+
+
+.navbar-light {
+
+
+    background-color: rgb(143, 225, 245) !important;
+   
+}
+
+
+.label {
+   
+   
+    color: black !important;
+}
